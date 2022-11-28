@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>이정재 ( Lee Jeong Jae )<h1/>
+  <h1>⭐이정재 ( Lee Jeong Jae )⭐<h1/>
 
   
   <a href=""><img height="30" src="https://img.shields.io/badge/Projects-000000?style=flat-square&logo=notion&logoColor=white"/></a>
