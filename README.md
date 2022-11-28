@@ -1,10 +1,10 @@
 <div align="center">
   
-  ### 이정재 ( Lee Jeong Jae )  
-  ---
+  <h1>이정재 ( Lee Jeong Jae )<h1/>
+
   
-  <a href=""><img src="https://img.shields.io/badge/Projects-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="https://www.notion.so/f89131b52f264414967bb021dad987e9"><img src="https://img.shields.io/badge/LeeJeongJae-d3d3d3?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href=""><img height="30" src="https://img.shields.io/badge/Projects-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/f89131b52f264414967bb021dad987e9"><img height="30" src="https://img.shields.io/badge/LeeJeongJae-d3d3d3?style=flat-square&logo=notion&logoColor=black"/></a>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
