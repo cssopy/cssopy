@@ -2,8 +2,8 @@
   
   <h1>⭐이정재 ( Lee Jeong Jae )⭐<h1/>
 
-  
-  <a href=""><img height="30" src="https://img.shields.io/badge/Projects-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <!-- 주석 내용 
+  <a href=""><img height="30" src="https://img.shields.io/badge/Projects-000000?style=flat-square&logo=notion&logoColor=white"/></a>-->
   <a href="https://www.notion.so/f89131b52f264414967bb021dad987e9"><img height="30" src="https://img.shields.io/badge/LeeJeongJae-d3d3d3?style=flat-square&logo=notion&logoColor=black"/></a>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
