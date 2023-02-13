@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Unity-F5F5F5?style=flat-square&logo=unity&logoColor=black"/>
   
   <br/><br/>
-  <img height="200" width="368" alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cssopy"/>
+  [<img height="200" width="368" alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cssopy"/>](https://solved.ac/cssopy/)
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssopy&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
  
 </div>
